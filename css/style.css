@@ -1,0 +1,56 @@
+body
+{
+	background: gray;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+canvas
+{
+	border: 3px solid #ffffff;
+}
+
+#buttonStartGameDiv
+{
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10%;
+	width: 1000px;
+}
+
+#score
+{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+
+p
+{
+	float: left;
+	display: block;
+	width: 20%;
+	font-size: 30px;
+}
+
+#buttonStartGame
+{
+	width: 200px;
+	height: 75px;
+	border: 3px solid;
+	border-radius: 5px;
+	background: "green";
+	font-size: 40px;
+}
+
+#buttonWinGame
+{
+	width: 200px;
+	height: 75px;
+	border: 3px solid;
+	border-radius: 5px;
+	background: "green";
+	font-size: 20px;
+}
